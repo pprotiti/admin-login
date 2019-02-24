@@ -1,0 +1,89 @@
+*{
+	margin: 0
+}
+ 
+ body{
+ 	background: url(../img/bg.jpeg);
+ 	background-size: cover;
+ 	font-family: 'Coiny', cursive;
+
+ }
+
+ .container{
+
+width: 400px;
+
+margin: 0 auto;
+
+padding: 72px.20px
+
+}
+
+.login-section{
+
+background: #42251c8c;
+}
+
+.login-section img{
+
+width: 250px;
+
+height: 250px;
+
+margin: 0 auto;
+
+display: block;
+}
+
+.login-section h2{
+
+color: #e6b030;
+
+margin: 0px.10px;
+
+padding: 10px;
+}
+.form-control{
+
+width: 350px;
+
+height: 32px;
+
+padding: 5px.30px;
+
+margin: 10px;
+
+margin-bottom: 10px;
+}
+
+.btn{
+
+padding: 16px;
+
+margin-bottom: 0 auto;
+
+/* display: block; */
+
+margin: 40;
+
+margin: 31px;
+
+background-color: #ef9a1a;
+
+width: 134px;
+
+text transform:;
+
+color: black;
+
+border: none;
+}
+
+
+h4 {
+    width: 335px;
+    height: 30px;
+    padding: 10px.20px;
+    margin: 0 auto;
+    color: #ef9a1a;
+  
